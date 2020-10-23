@@ -1,0 +1,12 @@
+---
+vault_group: webapps
+vault_user: userapps
+vault_home: /webapps
+
+django_user: admin
+django_email: admin@admin.com
+django_password: admin
+
+vault_database_name: scrapers
+vault_postgresql_user: userdb
+vault_postgresql_password: password
